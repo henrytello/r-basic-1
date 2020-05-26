@@ -1,5 +1,5 @@
 # [Curso de R Studio y Python]
-* Johnny Jacha Rojas HOLA*
+* hdfgfghfgh*
 
 * Logística e instalación de R y RStudio y de Anaconda Navigator para Python
 * Cómo usar R y Python como si fuese una calculadora científica (incluyendo un repaso de funciones, trigonometría y combinatoria)
